@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+
+    <!--以下颜色资源取自网上，全部贴出来以供使用，本app求最少化的使用非代码资源-->
+    <color name="white">#FFFFFF</color><!--白色 -->
+    <color name="ivory">#FFFFF0</color><!--象牙色 -->
+    <color name="lightyellow">#FFFFE0</color><!--亮黄色 -->
+    <color name="yellow">#FFFF00</color><!--黄色 -->
+
+
+</resources>
